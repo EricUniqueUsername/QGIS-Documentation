@@ -26,9 +26,8 @@ explore the attribute data of an object
 :abbr:`★☆☆ (Basic level)` Follow Along: Viewing Layer Attributes
 -------------------------------------------------------------------------------
 
-It's important to know that the data you will be working with does not only
-represent **where** objects are in space, but also tells you **what** those
-objects are.
+It's important to know that the data you will be working with does not merely
+represent the **location** of features and objects in space, but also contains information that allows you to **identify** and **classify** them.
 
 From the previous exercise, you should have the ``protected_areas`` layer
 loaded in your map. If it is not loaded, then you can find the
