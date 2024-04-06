@@ -62,7 +62,7 @@ If you have saved a project, the Browser Panel will also give you quick access t
 all the layers stored in the same path of the project file under in the
 |qgsProjectFile| :guilabel:`Project Home` item.
 
-Moreover, you can set one or more folder as **Favorites**: search under your path
+Moreover, you can set one or more folders as **Favorites**: search under your path
 and once you have found the folder, right click on it and click on ``Add as a
 Favorite``. You should then be able to see your folder in the |favourites|
 :guilabel:`Favorites` item.
@@ -91,7 +91,7 @@ map by clicking on the :guilabel:`Project` menu and then clicking on
 
 This is where the map itself is displayed and where layers are loaded. In the map
 canvas you can interact with the visible layers: zoom in/out, move the map,
-select features and many other operations that we will deeply see in the next
+select features and many other operations that we will explore in greater depth in the next
 sections.
 
 :abbr:`★☆☆ (Basic level)` The Status Bar
@@ -110,7 +110,7 @@ wherever it is more comfortable for you.
 :abbr:`★☆☆ (Basic level)` The Locator Bar
 ...............................................................................
 
-Within this bar you can access to almost all the objects of QGIS: layers, layer
+Within this bar you can access almost all the objects of QGIS: layers, layer
 features, algorithms, spatial bookmarks, etc. Check all the different options in
 the :ref:`locator_options` section of the QGIS User Manual.
 
