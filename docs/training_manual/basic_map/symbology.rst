@@ -552,7 +552,7 @@ symbology.
 :abbr:`★★★ (Advanced level)` Try Yourself:
 ...............................................................................
 
-Geometry generator are just another symbol level. Try to add another
+The geometry generator simply produces another symbol level. Now try adding another
 :guilabel:`Simple fill` underneath the :guilabel:`Geometry generator` one.
 
 Change also the appearance of the Simple marker of the Geometry generator symbology.
